@@ -4,4 +4,5 @@ master version change
 Add new feature: feature name is feature1
 merge with manual
 used new merge with --no-ff
+merge without --no-ff
 
