@@ -6,4 +6,5 @@ merge with manual
 used new merge with --no-ff
 merge without --no-ff
 again
-issue1 bug fixed
+issue1 bug fixedi
+new branch
